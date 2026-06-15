@@ -1,0 +1,4 @@
+22,The Cure At Troy,Sophocles' philoctetes,poetry,2018,Available
+23,The Greek Plays,sophocles,Drama,2016,Available
+24,Dracula,Bram Stokers,Horror,1897,Available
+25,Frankenstein,Mary Shelly,Horror,1818,Available
